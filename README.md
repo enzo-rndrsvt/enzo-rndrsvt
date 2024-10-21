@@ -1,4 +1,1 @@
-![Visitor Count](https://profile-counter.glitch.me/enzo-rndrsvt/count.svg)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=enzo-rndrsvt&left_color=green&right_color=red)
-
-oui
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31za3fry6vefj2eh4roidbxo3zfi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
